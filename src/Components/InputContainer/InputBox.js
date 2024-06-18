@@ -41,7 +41,7 @@ function InputBox(props) {
         <input
           type="text"
           className="form-control"
-          placeholder="Write your task. eg. Going collage"
+          placeholder="Plan your day..."
           aria-label="Recipient's username"
           aria-describedby="button-addon2"
           onChange={NewTaskHandler}
