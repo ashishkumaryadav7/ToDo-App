@@ -1,0 +1,7 @@
+.delete-box{
+    color: #EF9C66;
+}
+.delete-box:hover{
+    scale: 1.2;
+    transition: scale 0.19s ease-out;
+   }

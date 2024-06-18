@@ -1,0 +1,19 @@
+.message-container{
+    /* border: 2px solid; */
+    padding: 5px;
+    background-color: #CDE8E5;
+}
+.completed {
+    /* bg color for completed tasks */
+    background-color: #ade9e2;
+  }
+.message-block{
+    word-wrap: break-word;
+    padding-top: 5px;
+
+}
+
+.taskdate-box{
+    top: 0;
+    left: 0;
+}

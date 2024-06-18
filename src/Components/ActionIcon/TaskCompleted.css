@@ -1,0 +1,7 @@
+.check{
+    color: green;
+}
+.check:hover{
+ scale: 1.3;
+ transition: scale 0.19s ease-out;
+}

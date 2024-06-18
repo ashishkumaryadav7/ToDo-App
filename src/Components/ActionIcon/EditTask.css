@@ -1,0 +1,8 @@
+.edit-pen {
+    color: rgb(112, 138, 139);
+}
+
+.edit-pen:hover {
+    scale: 1.2;
+    transition: scale 0.19s ease-out;
+}
